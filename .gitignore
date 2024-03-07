@@ -1,0 +1,12 @@
+build
+
+.vscode
+
+__pycache__
+
+temp
+
+src/ui/resource
+
+00_truth
+demo

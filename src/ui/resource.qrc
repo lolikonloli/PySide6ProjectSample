@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>resource/icon/icon_close.png</file>
+    <file>resource/icon/icon_maximize.png</file>
+    <file>resource/icon/icon_minimize.png</file>
+    <file>resource/icon/icon_restore.png</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>resource/image/logo_huawei.png</file>
+    <file>resource/image/logo_jmu.png</file>
+    <file>resource/image/1.png</file>
+    <file>resource/image/2.png</file>
+    <file>resource/image/3.png</file>
+    <file>resource/image/4.png</file>
+  </qresource>
+</RCC>
